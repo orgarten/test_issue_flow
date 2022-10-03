@@ -31,7 +31,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: lmrtfy version
+    id: lmrtfy_version
     attributes:
       label: lmrtfy version
       description: What version of lmrtfy are you running?
@@ -42,7 +42,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: python version
+    id: python_version
     attributes:
       label: python version
       description: What python version do you use?
