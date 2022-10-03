@@ -47,12 +47,12 @@ body:
       label: python version
       description: What python version do you use?
       options:
-        - >=3.11
+        - ">=3.11"
         - 3.10
         - 3.9
         - 3.8
         - 3.7
-        - <3.7
+        - "<3.7"
     validations:
       required: true
 
